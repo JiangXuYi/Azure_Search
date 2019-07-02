@@ -1,0 +1,20 @@
+search Service Name
+azs-search-service-dsergdwdn6wxe
+search Service Api Key
+A7388CC991FFD21135ED9E5377D577C2
+cognitive Services Account Key
+c5617be90a6a4003ad24f67198db1f26
+blob Storage Account Connection String
+DefaultEndpointsProtocol=https;AccountName=azsstoragedsergdwdn6wxe;AccountKey=LvjqCePndqjxaFXrxUoSknAFsbXrTIKjMdkd6B/vav/pvpmnoWX6P9TZPYioqipFtQfTywaKtbsM7PJrVRxBxA==;
+azure Web App Site Name
+azs-site-dsergdwdn6wxe
+azure Web App Username
+$azs-site-dsergdwdn6wxe
+azure Web App Password
+jRy7QN4BbgmdmElk1QcjeJfZusvl3AkRCB0lWMMxoaALqdby6HGy6Gkh80lu
+azure Function Site Name
+azs-function-app-dsergdwdn6wxe
+azure Function Username
+$azs-function-app-dsergdwdn6wxe
+azure Function Password
+jmBGKdLJBzoHxlH6v5vlwZce9uujq2Xdpunlnw4TY44qlwPkTtjHBln4g3aH
